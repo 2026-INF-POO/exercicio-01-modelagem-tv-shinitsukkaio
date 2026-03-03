@@ -13,7 +13,7 @@ class TV{
   }
 
   int diminuirvolume(){
-    if(volume>10){
+    if(volume>1){
       volume--;
     }
     return volume;
