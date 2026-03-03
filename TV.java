@@ -18,5 +18,7 @@ class TV{
     }
     return volume;
   }
-  
+
+  int voltagem(){
+    
   
